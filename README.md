@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @wecr3at3
-- 👀 I’m interested in electronics and coding
-- 🌱 I’m currently learning data analysis
+- 👋 Hi, I’m aakash
+- 👀 I’m interested in electronics, coding and design
+- 🌱 I’m currently working on creating an online learning space
 - 💞️ I’m looking to collaborate on educational STEAM kits
 - 📫 How to reach me - email me at vcr3at3@gmail.com
 
